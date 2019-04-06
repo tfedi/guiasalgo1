@@ -1,0 +1,3 @@
+/Users/tomasfedi/Downloads/Labo02-Vectores/Labo02-Vectores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tomasfedi/Downloads/Labo02-Vectores/Labo02-Vectores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomasfedi/Downloads/Labo02-Vectores/Labo02-Vectores/cmake-build-debug/CMakeFiles/Labo02_Vectores.dir

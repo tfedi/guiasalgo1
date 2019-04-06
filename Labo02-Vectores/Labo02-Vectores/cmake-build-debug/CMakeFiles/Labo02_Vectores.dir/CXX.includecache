@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tomasfedi/Downloads/Labo02-Vectores/Labo02-Vectores/ejercicios.h
+iostream
+-
+vector
+-
+utility
+-
+
+/Users/tomasfedi/Downloads/Labo02-Vectores/Labo02-Vectores/main.cpp
+iostream
+-
+ejercicios.h
+/Users/tomasfedi/Downloads/Labo02-Vectores/Labo02-Vectores/ejercicios.h
+
