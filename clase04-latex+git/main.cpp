@@ -19,6 +19,13 @@ bool esPar(int n){
     return n % 2 == 0;
 }
 
+int nck(int n, int k){
+    if(k == n or k == 0){
+        return 1;
+    }
+    return nck(n-1,k-1) + nck(n-1,k);
+}
+
 
 int main() {
     cout << esPar(fibonacci(5)) << endl;
