@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lisandrodiaz/Downloads/L04-TallerDebugging/taller/ejercicios.cpp
+iostream
+-
+ejercicios.h
+/Users/lisandrodiaz/Downloads/L04-TallerDebugging/taller/ejercicios.h
+math.h
+-
+cmath
+-
+
+/Users/lisandrodiaz/Downloads/L04-TallerDebugging/taller/ejercicios.h
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+
