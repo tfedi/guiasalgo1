@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lisandrodiaz/Desktop/Facultad/clasesLab/guiasalgo1/Laboratorio05/ejercicios.cpp
+ejercicios.h
+/Users/lisandrodiaz/Desktop/Facultad/clasesLab/guiasalgo1/Laboratorio05/ejercicios.h
+iostream
+-
+
+/Users/lisandrodiaz/Desktop/Facultad/clasesLab/guiasalgo1/Laboratorio05/ejercicios.h
+vector
+-
+utility
+-
+
+/Users/lisandrodiaz/Desktop/Facultad/clasesLab/guiasalgo1/Laboratorio05/main.cpp
+iostream
+-
+ejercicios.h
+/Users/lisandrodiaz/Desktop/Facultad/clasesLab/guiasalgo1/Laboratorio05/ejercicios.h
+
