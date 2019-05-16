@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lisandrodiaz/CLionProjects/MATRICES/ejercicios.cpp
+vector
+-
+
+/Users/lisandrodiaz/CLionProjects/MATRICES/main.cpp
+iostream
+-
+matrix_utilities.h
+/Users/lisandrodiaz/CLionProjects/MATRICES/matrix_utilities.h
+ejercicios.cpp
+/Users/lisandrodiaz/CLionProjects/MATRICES/ejercicios.cpp
+
+/Users/lisandrodiaz/CLionProjects/MATRICES/matrix_utilities.h
+vector
+-
+iostream
+-
+
